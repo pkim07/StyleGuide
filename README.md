@@ -11,7 +11,5 @@ In this project I am demonstrating basic HTML and CSS skills that I have learned
 
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [Codecademy](https://www.codecademy.com)
 * [W3Schools](https://www.w3schools.com/)
