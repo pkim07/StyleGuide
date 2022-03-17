@@ -8,7 +8,7 @@ In this project I am demonstrating basic HTML and CSS skills that I have learned
 
 
 ### Live Demo
-[Style Guide](serene-hugle-b326f5.netlify.app)
+[Style Guide](https://serene-hugle-b326f5.netlify.app/)
 
 ## Acknowledgments
 * [Codecademy](https://www.codecademy.com)
